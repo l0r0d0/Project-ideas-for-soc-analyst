@@ -17,7 +17,3 @@ Backend: Python (e.g., Django or Flask) for data processing and analysis
 Database: MongoDB or Elasticsearch for storing and querying threat intelligence data
 Integration: APIs for integrating with threat intelligence feeds, SIEMs, and other security tools
 Frontend: Optional frontend interface for visualization and analysis (e.g., React.js or Dash)
-
-## License:
-
-This project is licensed under the Apache License 2.0. See the LICENSE file for details.
