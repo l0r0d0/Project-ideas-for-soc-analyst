@@ -31,6 +31,3 @@ Threat Feed Enrichment: Automatically enrich hunting results with additional con
 Threat Simulation: Integrate with threat simulation platforms to simulate and validate hunting techniques against known attack scenarios.
 Community Contributions: Enable community contributions of hunting queries, analytics rules, and visualization templates to foster knowledge sharing and collaboration.
 How to Contribute:
-
-## License:
-This project is licensed under the MIT License. See the LICENSE file for details.
