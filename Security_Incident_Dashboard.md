@@ -33,5 +33,5 @@ Description: The Security Incident Dashboard project aims to provide a centraliz
 3.  Implement new features or enhancements.
 4.  Submit a pull request detailing the changes made.
 
-License: This project is licensed under the MIT License. See the LICENSE file for details.
+
 
