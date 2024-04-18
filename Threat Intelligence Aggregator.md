@@ -16,4 +16,4 @@ Alerting and Reporting: Generates alerts and reports for identified threats, inc
 Backend: Python (e.g., Django or Flask) for data processing and analysis
 Database: MongoDB or Elasticsearch for storing and querying threat intelligence data
 Integration: APIs for integrating with threat intelligence feeds, SIEMs, and other security tools
-Frontend: Optional frontend interface for visualization and analysis (e.g., React.js or Dash)
+Frontend: Optional frontend interface for visualization and analysis (e.g., React.js or Dash) 
