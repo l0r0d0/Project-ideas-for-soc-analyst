@@ -29,6 +29,3 @@ Customization and Tuning: Provides configuration options for fine-tuning detecti
 Compliance Reporting: Generates compliance reports demonstrating the organization's efforts to combat phishing attacks and protect sensitive information.
 How to Contribute:
 
-## License:
-
-This project is licensed under the MIT License. See the LICENSE file for details.
